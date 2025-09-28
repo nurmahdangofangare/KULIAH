@@ -15,5 +15,5 @@ Skor < 50 → E
 Program juga memiliki validasi agar skor yang dimasukkan berada di rentang 0 – 100.
 
 Cara Menjalankan Program ini, ikuti langkah-langkah berikut:
+1. Clone repository dari GitHub: git clone
 
-Clone repository dari GitHub: git clone
